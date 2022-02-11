@@ -35,139 +35,139 @@ annotations:
     reference: ''
     span:
       start: 4690
-      end: 6061
+      end: 6060
     note_ref: 4b10d0181bd94c619eab72e023d21204
   e5d2668a8f3a436585b256ac79e75a47:
     imgnum: 525
     reference: ''
     span:
-      start: 6063
-      end: 7424
+      start: 6062
+      end: 7423
     note_ref: 4b10d0181bd94c619eab72e023d21204
   32c264292538493d83f80ebf56170feb:
     imgnum: 526
     reference: ''
     span:
-      start: 7426
-      end: 8723
+      start: 7425
+      end: 8721
     note_ref: 4b10d0181bd94c619eab72e023d21204
   898008d0c3cf42fdb25c0d70afc4b0f8:
     imgnum: 527
     reference: ''
     span:
-      start: 8725
-      end: 10000
+      start: 8723
+      end: 9998
     note_ref: 4b10d0181bd94c619eab72e023d21204
   6cfc5d92aa1c4e09bf596a4238d13908:
     imgnum: 528
     reference: ''
     span:
-      start: 10002
-      end: 11355
+      start: 10000
+      end: 11353
     note_ref: 4b10d0181bd94c619eab72e023d21204
   4834934ea6064c93a7795e8b26193055:
     imgnum: 529
     reference: ''
     span:
-      start: 11357
-      end: 12675
+      start: 11355
+      end: 12673
     note_ref: 4b10d0181bd94c619eab72e023d21204
   c5805a0a88b243dd914c1ed6d4b2881a:
     imgnum: 530
     reference: ''
     span:
-      start: 12677
-      end: 14010
+      start: 12675
+      end: 14008
     note_ref: 4b10d0181bd94c619eab72e023d21204
   fe6675cd228a4d3b989c9de58fb262c6:
     imgnum: 531
     reference: ''
     span:
-      start: 14012
-      end: 15375
+      start: 14010
+      end: 15373
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   3e6a7482e4034689b59f00e4b7c794c4:
     imgnum: 532
     reference: ''
     span:
-      start: 15377
-      end: 16674
+      start: 15375
+      end: 16672
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   537ab43faeca45e093b151110103bca6:
     imgnum: 533
     reference: ''
     span:
-      start: 16676
-      end: 18016
+      start: 16674
+      end: 18014
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   eaa9b5b11f87428b87f52aedff937429:
     imgnum: 534
     reference: ''
     span:
-      start: 18018
-      end: 19353
+      start: 18016
+      end: 19351
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   8cc737b228d841cfa3bd0a7376b8f4b0:
     imgnum: 535
     reference: ''
     span:
-      start: 19355
-      end: 20679
+      start: 19353
+      end: 20677
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   1f6ca80e5ddc44bc93b0730fac7eeb26:
     imgnum: 536
     reference: ''
     span:
-      start: 20681
-      end: 21989
+      start: 20679
+      end: 21987
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   29c967da2fa14df3bd563bbbd32d8c96:
     imgnum: 537
     reference: ''
     span:
-      start: 21991
-      end: 23344
+      start: 21989
+      end: 23342
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   5976faf53b17491f910bbd3c59a92072:
     imgnum: 538
     reference: ''
     span:
-      start: 23346
-      end: 24675
+      start: 23344
+      end: 24673
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   06f769bd541345f79c4161d98a07261d:
     imgnum: 539
     reference: ''
     span:
-      start: 24677
-      end: 26023
+      start: 24675
+      end: 26021
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   39a22c6cef0247b185aca4120f8ba870:
     imgnum: 540
     reference: ''
     span:
-      start: 26025
-      end: 27358
+      start: 26023
+      end: 27356
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   85276ebb911e4d4c823bd2ba4ab802e1:
     imgnum: 541
     reference: ''
     span:
-      start: 27360
-      end: 28706
+      start: 27358
+      end: 28704
     note_ref: 9f5aeaf822714d4caf1d73b7fe8eb3ec
   4b10d0181bd94c619eab72e023d21204:
     imgnum: 542
     reference: ''
     span:
-      start: 28708
-      end: 30396
+      start: 28706
+      end: 30394
   9f5aeaf822714d4caf1d73b7fe8eb3ec:
     imgnum: 543
     reference: ''
     span:
-      start: 30398
-      end: 32196
+      start: 30396
+      end: 32194
 local_ids:
   b1e07fc2916e438492455cd0747aab7e: 200000
   1b64e0636c47493b89020f530a9205e7: 200001
